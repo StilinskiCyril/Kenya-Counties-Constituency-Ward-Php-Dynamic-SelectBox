@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="def9d1b1-cc40-4952-88f4-2cf62b3300b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1huh8JAvStcSDU95cuutv2RueRL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="def9d1b1-cc40-4952-88f4-2cf62b3300b9" name="Default Changelist" comment="" />
+      <created>1600866724525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600866724525</updated>
+      <workItem from="1600866725652" duration="9006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="497" y="308" width="361" height="148" key="NewPhpFileDialog" timestamp="1600868341918">
+      <screen x="0" y="1" width="1366" height="766" />
+    </state>
+    <state x="497" y="308" width="361" height="148" key="NewPhpFileDialog/0.1.1366.766@0.1.1366.766" timestamp="1600868341918" />
+    <state x="179" y="17" key="SettingsEditor" timestamp="1600866756223">
+      <screen x="0" y="1" width="1366" height="766" />
+    </state>
+    <state x="179" y="17" key="SettingsEditor/0.1.1366.766@0.1.1366.766" timestamp="1600866756223" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1600873892136">
+      <screen x="0" y="1" width="1366" height="766" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.1.1366.766@0.1.1366.766" timestamp="1600873892136" />
+  </component>
+</project>
